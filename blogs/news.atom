@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.northroast.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://www.northroast.com/blogs/news.atom"/>
+  <title>North Roast Coffee Roaster - News</title>
+  <updated>2021-07-20T08:44:13-04:00</updated>
+  <author>
+    <name>North Roast Coffee Roaster</name>
+  </author>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/baby-steps</id>
+    <published>2021-07-20T08:44:13-04:00</published>
+    <updated>2021-07-20T08:45:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/baby-steps"/>
+    <title>Baby Steps</title>
+    <author>
+      <name>Richard Ottenhof</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><span>For the first time since March 2020, we are permitting customers to enter the Roastery to pick up their orders. We are limiting the number of customers to 3, and of course, everyone must wear their mask.</span><p><a class="read-more" href="https://www.northroast.com/blogs/news/baby-steps">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<div dir="auto">For the first time since March 2020, we are permitting customers to enter the Roastery to pick up their orders. We are limiting the number of customers to 3, and of course, everyone must wear their mask.</div>
+<div dir="auto"><img src="https://cdn.shopify.com/s/files/1/0286/6846/files/EF2581EE-6601-419C-8BD3-C66D2611BA18_480x480.jpg?v=1626785030" alt=""></div>
+<div dir="auto">Like most businesses, covid-19 has changed us and our business model. We no longer have an espresso bar at the roastery, and that space is now dedicated to our new roaster, and green coffee storage. We will engage the public by having the roasting in full view, and hold regular cupping events when safe to do so.</div>
+<div dir="auto">Due to the volume of online orders and the need to package local delivery orders first so the van can depart, we can no longer fill counter orders until the afternoon. We want to thank our customers for their steadfast support and patience while we figure out how to serve while safe. As always, we will err on the side of safety and take very cautious steps to return to full service</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/why-we-said-no-to-costco-and-yes-to-shopify</id>
+    <published>2021-06-17T20:46:01-04:00</published>
+    <updated>2021-06-17T20:46:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/why-we-said-no-to-costco-and-yes-to-shopify"/>
+    <title>Why We Said No To Costco and Yes to Staying Local</title>
+    <author>
+      <name>Richard Ottenhof</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>A few weeks ago we received an unsolicited email from Costco. </p>
+<p>When I started roasting coffee in 1997 I would have thought that an offer from Costco to supply them with packaged coffee was a gift from the heavens.  The opportunity to supply Canada's second largest retailer is flattering to say the least, but ultimately one that wasn't right for our customers, workers or business...I said no.</p>
+<p>Over the 24 year history of our company we've prioritized roasting the highest quality beans available while staying laser focused on freshness.  We've done an incredible job adapting to supplying Kingston and Area with coffee delivered free to their home or office during the pandemic, while maintaining the safest work environment we can imagine.  This adaptation was a result of a monumental effort from our team here, leveraging the fantastic technology that the Shopify platform offers to create online sales, combined with a dogged determination to prevail in the most difficult business environment in the last 75 years.</p>
+<p>A couple weeks prior to the outreach from Costco I was appointed to Shopify's "Voice of the Merchant Council" which brings together 15 online retailers from across Canada to provide feedback and insight into Canadian online retail from the merchant perspective.  It wasn't until I began writing down an outline for this blog post that I realized that the reason I can say NO to Costco is because of the support of our customers ordering online.</p>
+<p>The Shopify Platform has allowed North Roast to drive the sales that feed our business, instead of relying on a single large customer who would ultimately control our order flow.  That power to control our own sales is more enticing than any offer Big Retail can offer.  The Shopify Platform has given us the tools to climb up the Search Engine rankings for Coffee Roasters in Ontario to near the top of the page, completely driven by volume rather than paying for placement.  This is the spark that ignites "The Flywheel Effect" described in Jim Collins landmark book "Good to Great".  Increased online sales lead to better SEO results lead to better online sales...all organically without cost. </p>
+<p>If it wasn't for the tools we ourselves control, enabled by the Shopify platform, we would have lost control of our sales flow, been forced to sacrifice quality and freshness, all to prioritize a single large customer over the interests of thousands of individual customers who've supported us through the years.</p>
+<p>I made the right choice.</p>
+<p>Staying Local</p>
+<p> </p>
+<p> </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/finally-some-great-news</id>
+    <published>2021-03-18T21:14:28-04:00</published>
+    <updated>2021-03-25T12:59:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/finally-some-great-news"/>
+    <title>Finally....Some Great News!</title>
+    <author>
+      <name>Richard Ottenhof</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><span>The response to the pivot to online sales was overwhelming and we can proudly state that we have successfully completed over 15,000 transactions online since the onset of covid-19 in Canada.  This explosion in online sales has created the need for us to expand our roasting capacity. </span><p><a class="read-more" href="https://www.northroast.com/blogs/news/finally-some-great-news">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p> </p>
+<meta charset="utf-8">
+<p><span>We are now one year since the first covid-19 lockdown and I want to take this opportunity to reflect and share some fantastic news. We shut our doors to the public on March 18th, 2020 and have kept this protocol in place ever since out of an abundance of caution and prioritization of both customer and employee health and safety. Since making this change we have devoted ourselves to improving the no-contact customer experience by updating our website and hiring an additional delivery driver to ensure that we get your coffee to you as quickly as possible. A lot of hard work has gone into making this change and we are proud of the service we’ve been able to provide throughout this unprecedented year in business. And it seems you agree! The response to our pivoting to strictly online sales has been overwhelming and we are so grateful for your continued support. Your support has been so great in fact that we need to expand our roasting capacity! We are excited to announce that we have purchased a state of the art Probat Probatone Roaster which will increase our roasting capacity by 200,000 pounds per year. Probat is a German Coffee Roaster manufacturer founded in 1868 and is known for producing the worlds finest coffee roasters for world class professional roasting companies.  </span></p>
+<p><span>Our new roaster is currently in production and we expect to receive it in late May. We hope to have even more great news to share by then. </span></p>
+<p><span>Until then, stay safe!</span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/hello-2021</id>
+    <published>2021-02-03T13:14:44-05:00</published>
+    <updated>2021-03-25T13:01:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/hello-2021"/>
+    <title>Hello 2021</title>
+    <author>
+      <name>Richard Ottenhof</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><span>Thank goodness also for our staff who have worked tirelessly through crazy times. Early on we weren't certain what was the best course of action other than to lock the doors and keep each other safe while still serving the community we've built over the last 23 years.  In those 23 years I can honestly say it was the best business decision I've ever made.</span><p><a class="read-more" href="https://www.northroast.com/blogs/news/hello-2021">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>While every New Year brings the promise of better things, I can safely say that having 2020 in our rear view mirror brings to mind the saying "things couldn't get much worse".  2020 was a horrible year for every community we serve.  All around us are examples of our community members suffering though what 2020 given us.  Good riddance 2020.</p>
+<p>Hello 2021!  We have many things to be grateful for and to look forward to.</p>
+<p>Incredibly, the medical community has managed to develop vaccines that will keep us all safe.  Our local medical communities have done incredible jobs of tending to our sick and vulnerable and we've all come to realize how important our local Health Units are in keeping us safe.  Thank goodness for them.</p>
+<p>Thank goodness also for our staff who have worked tirelessly through crazy times. Early on we weren't certain what was the best course of action other than to lock the doors and keep each other safe while still serving the community we've built over the last 23 years.  In those 23 years I can honestly say it was the best business decision I've ever made.</p>
+<p>I can safely say that we will not open to the public until our local Health Unit declares that the Pandemic is under control, likely through widespread vaccination.  Realistically, this is not likely to happen until late in the Autumn.  We are very pleased that our customers have embraced ordering Online, many for the very first time!  Every time we see familiar names come across the screen, we are reminded of how much we miss seeing everyone, and are grateful to still be a part of your coffee routine.</p>
+<p>We are absolutely dedicated to Safely serving you through Secure Contactless Pick Up or Free Local Contactless Delivery and promise that when this is all over, we will host a coffee event to celebrate our customers and community.</p>
+<p>Stay Safe!</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/covid-19-update-3</id>
+    <published>2020-08-05T19:32:00-04:00</published>
+    <updated>2021-03-25T13:05:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/covid-19-update-3"/>
+    <title>Covid-19 Update #4</title>
+    <author>
+      <name>Richard Ottenhof</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><span>We often get asked, "How are you guys doing?" since the covid-19 restrictions took hold</span><p><a class="read-more" href="https://www.northroast.com/blogs/news/covid-19-update-3">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8"><meta charset="utf-8">
+<div class="" data-block="true" data-editor="1nu5p" data-offset-key="ei8bh-0-0">
+<div data-offset-key="ei8bh-0-0" class="_1mf _1mj"><span data-offset-key="ei8bh-0-0">We often get asked, "How are you guys doing?" since the covid-19 restrictions took hold. While most of our wholesale customers have struggled against the heavy weight of the near complete shutdown of the foodservice industry, we've managed quite well by pivoting to online sales and Free Local Delivery. Our July was an absolute knock out month for us and we've completed almost 4000 deliveries to Kingston and Area since the covid restrictions were announced!</span></div>
+</div>
+<div class="" data-block="true" data-editor="1nu5p" data-offset-key="7b7me-0-0">
+<div data-offset-key="7b7me-0-0" class="_1mf _1mj"><span data-offset-key="7b7me-0-0">We know the balance of this year and the cold winter months are going to remain challenging for all businesses, especially those involved in the retail trade and we've already had to deal with the permanent closure of some wholesale customers doors. We want everyone to know that we've been planning for all contingencies, and that keeping our customers and each other safe is our prime objective. Our doors will remain closed to the public for at least the balance of the year in order to ensure our protective bubble remains firm.</span></div>
+</div>
+<div class="" data-block="true" data-editor="1nu5p" data-offset-key="56ad1-0-0">
+<div data-offset-key="56ad1-0-0" class="_1mf _1mj"><span data-offset-key="56ad1-0-0">We're very excited to be bringing in new micro-lot coffees from the best growers in the world, and to converting all 5 lb coffee bags to be compostable. </span></div>
+</div>
+<div class="" data-block="true" data-editor="1nu5p" data-offset-key="5njb4-0-0">
+<div data-offset-key="5njb4-0-0" class="_1mf _1mj"><span data-offset-key="5njb4-0-0">As always, we are grateful for the support of our community and the hard work and dedication of our staff .</span></div>
+</div>
+<div class="" data-block="true" data-editor="1nu5p" data-offset-key="6sd2n-0-0">
+<div data-offset-key="6sd2n-0-0" class="_1mf _1mj"><span data-offset-key="6sd2n-0-0">Stay Safe</span></div>
+</div>
+<p> </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/covid-19-update</id>
+    <published>2020-05-16T18:53:00-04:00</published>
+    <updated>2020-05-21T10:31:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/covid-19-update"/>
+    <title>Covid-19 Update</title>
+    <author>
+      <name>Richard Ottenhof</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8">
+<p><span>While we congratulate all businesses that are opening after restrictions were enforced to contain covid-19, we are currently not prepared to re-open our doors to the public.  </span></p><p><a class="read-more" href="https://www.northroast.com/blogs/news/covid-19-update">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<p><span>While we congratulate all businesses that are opening after restrictions were enforced to contain covid-19, we are currently not prepared to re-open our doors to the public.  </span></p>
+<p><span>Since March 16 we’ve been safely roasting and packaging behind locked doors, while delivering and offering Secure Pick Up of fresh roasted coffee to our customers.  The act of operating as a food processor safely has required the creation of new rules and protocols to protect our staff and customers.  The careful processes we enacted to ensure a completely sanitized environment are not things that we feel we can continue while opening our doors.  It is for this reason that we are NOT easing restrictions, and will instead continue to offer Free Delivery to Kingston and Area, and Secure Contactless Pick Up at our Roastery on Progress Avenue.</span></p>
+<p><span>Our staff and customer safety are our most important priority and every decision will be measured by our ability to keep you perfectly safe during this unprecedented time.  We will continue to assess the situation and provide updates as required.</span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/covid-19-precautions</id>
+    <published>2020-03-13T11:41:00-04:00</published>
+    <updated>2020-03-13T11:41:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/covid-19-precautions"/>
+    <title>Covid 19 Precautions</title>
+    <author>
+      <name>North Roast Staff</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Needless to say, we live in interesting times.</p>
+<p>The news is alarming and this new virus seems destined to arrive close to us at some point.  For medical advice please refer to your local Health Care Practitioner or Health Authority for proper directions on preparations and how best to avoid coming into contact or spreading the virus.</p>
+<p>The purpose of this post is to inform you of how we are preparing and protecting each other and our customers.</p>
+<ul>
+<li>We are spraying and wiping all work and customer surfaces with a disinfecting solution hourly.</li>
+<li>We have placed antibacterial soap in dispensers for customer use in the washroom and a separate hand sink.  Wash hands vigorously for 20 seconds.</li>
+<li>We have hand sanitizer at all staff work stations and disinfecting wipes where necessary.</li>
+<li>Our scoops and bins are washed and disinfected frequently and no customer has any access to touch or handle any of our scoops or bins.</li>
+<li>We are increasing our in-town deliveries free of charge to serve those in our community who don't want to, or can't leave their houses.</li>
+</ul>
+<p>We are taking this challenge very seriously, and all staff are acutely aware of the importance of keeping each other, and out customers safe.  </p>
+<p>We will update this post as needed.</p>
+<p> </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/caf-feine-update-for-our-generous-customers</id>
+    <published>2020-02-15T15:44:00-05:00</published>
+    <updated>2020-02-15T15:59:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/caf-feine-update-for-our-generous-customers"/>
+    <title>CAF•FEINE Update for our Generous Customers</title>
+    <author>
+      <name>North Roast Staff</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Everyone here at North Roast Coffee want to thank our generous customers who have donated Loyalty Rewards Points and Pounds to support Canadian Armed Forces Members Serving Overseas.</p>
+<p>To date we've donated over 250 pounds to remind service members that we appreciate their sacrifice and dedication to representing Canada's interests overseas.</p>
+<p>Below I've compiled some of the Thank You Comments we've received from grateful recipients of your generosity.  Read on and know that your donations are making a real difference to our friends, family and neighbours serving overseas!</p>
+<p>Special thanks to the <a href="https://www.facebook.com/KingstonMFRC/?__tn__=%2Cd%2CP-R&amp;eid=ARC40cxDhcQWpGEgvfMsxbpWuURCKTCf65lEtQROYy9pAE9XgoSJKe3xicam9z3iAtRbCaG93HN-vMK-">Kingston Military Family Resource Centre </a>for coordinating all of the shipments and making sure all donations are safely delivered to our CAF Members overseas!</p>
+<p><span style="font-weight: 400;">• . I would like to send along my Thanks to you for this amazing initiative and to your customers who have donated their points in support of deployed members of the Canadian Armed Forces .  The members of Operation IMPACT stationed in Kuwait really appreciate this kind gesture and opportunity to enjoy a GREAT cup of coffee, which is no doubt roasted to perfection and tastes Great.   </span></p>
+<p><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Thank you and your customers for being Great Canadians.</span></p>
+<p><span style="font-weight: 400;"> </span><span style="font-weight: 400;">I have included a photo for your use</span></p>
+<p><span style="font-weight: 400;"><img src="//cdn.shopify.com/s/files/1/0286/6846/files/Taji_Picture.December_2019_large.jpg?v=1581798996" alt=""></span></p>
+<p><span style="font-weight: 400;">• . </span>Greetings from Camp Adazi, Latvia!  <span> </span><span>May I extend my sincere thanks for the package North Roast Coffee which you recently sent to us.  I have distributed it amongst the Canadian troops here, and it has been received most happily by all!</span></p>
+<p><span style="font-weight: 400;"> </span><span style="font-weight: 400;">With many thanks,</span></p>
+<p><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Chaplain, Task Force Latvia / enhanced Forward Presence Battle Group Latvia</span></p>
+<p><span style="font-weight: 400;">Canadian Armed Forces</span></p>
+<p><span style="font-weight: 400;">• . </span><span style="font-weight: 400;">I wanted to let you know that the 60 bags of coffee have now been sent and distributed between the following operations;</span></p>
+<p><span style="font-weight: 400;"> </span></p>
+<ul>
+<li>
+<span style="font-weight: 400;"></span><span style="font-weight: 400;">         </span><span style="font-weight: 400;">Operation Reassurance (Latvia)</span>
+</li>
+<li>
+<span style="font-weight: 400;"></span><span style="font-weight: 400;">         </span><span style="font-weight: 400;">Operation Reassurance (Latvia Headquarters)</span>
+</li>
+<li>
+<span style="font-weight: 400;"></span><span style="font-weight: 400;">         </span><span style="font-weight: 400;">Operation Impact (Lebanon)</span>
+</li>
+<li>
+<span style="font-weight: 400;"></span><span style="font-weight: 400;">         </span><span style="font-weight: 400;">Operation Impact (Jordan)        </span>
+</li>
+<li>
+<span style="font-weight: 400;"></span><span style="font-weight: 400;">         </span><span style="font-weight: 400;">Operation Impact (Kuwait)</span>
+</li>
+</ul>
+<p><span style="font-weight: 400;"> </span><span style="font-weight: 400;">As always, thank you for this wonderful initiative, and the points of contact I have used at these different missions are very excited and looking forward to receiving the coffee shipment and will share with all the CAF members in their area.</span></p>
+<p><span style="font-weight: 400;"> </span></p>
+<p> </p>
+<p><span style="font-weight: 400;">• . </span><span style="font-weight: 400;">We received and are using the coffee that Jeff delivered to us. A couple of pictures attached.</span></p>
+<p><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Coffee is always much appreciated.</span></p>
+<p><span style="font-weight: 400;">Thanks.</span></p>
+<p><span style="font-weight: 400;"> </span><span style="font-weight: 400;">A.D</span><span style="font-weight: 400;">. </span><span style="font-weight: 400;">(Dale)</span> </p>
+<p><span style="font-weight: 400;">PSP Morale &amp; Welfare Manager</span></p>
+<p><span style="font-weight: 400;">Operational Support Hub South West Asia</span></p>
+<p><span style="font-weight: 400;">OP IMPACT</span></p>
+<p><span style="font-weight: 400;">Canadian Forces Morale and Welfare Services</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">• . </span><span style="font-weight: 400;">Good Morning,</span></p>
+<p><span style="font-weight: 400;"> </span><span style="font-weight: 400;">I wanted to let you know that we have received your parcel, we wanted to say thank you for the coffee and the support that you have provided us I know that all the members of our team appreciate the gesture.</span></p>
+<p><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Dave , MMM, CD</span></p>
+<p><span style="font-weight: 400;">MWO/Adjum (OR-8)</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">• . </span><span style="font-weight: 400;">Good Day,</span></p>
+<p><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Currently I am deployed with the Signals Detachment in Taji, Iraq in support of the Impact – Training Coordination Unit Headquarters (ITCU HQ). When I am back home and working in Canada I am a member of the Canadian Forces Joint Signals Regiment (CFJSR) in Kingston.  I recently received a package from CWO XXXX; a wonderful gift of coffee from yourself and the North Roast Coffee company in Kingston as part of their CAF*FEINE program.</span></p>
+<p><span style="font-weight: 400;"><img src="//cdn.shopify.com/s/files/1/0286/6846/files/Blog1_large.jpg?v=1577886176" alt=""></span></p>
+<p><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Within our office space here, we house the coffee maker that most people frequent throughout the day, so this was the perfect gift.  On behalf of the Signals Detachment (Det) here, I would like to express our most sincere gratitude for this package, and also a very big thank you to North Roast Coffee for their generous gift.  This is an amazing program and just receiving the coffee and the story that came with it during the Holiday Season has spread joy around the camp - never mind how happy we were once we actually started drinking it.</span></p>
+<p><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Attached are a few picture of our deployed team; one of the Signals Det and one of the entire ITCU HQ.  I would simply like to send a very big thank you on behalf of our team here. You have made our Holiday Season brighter, one sweet cup of CAF*FEINE at a time!</span></p>
+<p><span style="font-weight: 400;"><img src="//cdn.shopify.com/s/files/1/0286/6846/files/IMG_0007_large.jpg?v=1581799102" alt=""></span></p>
+<p><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Happy New Year!!</span></p>
+<p><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Sgt Cory</span></p>
+<p><span style="font-weight: 400;"> </span><span style="font-weight: 400;">CIS S6-2, ITCU HQ, Taji</span></p>
+<p><span style="font-weight: 400;">Canadian Armed Forces</span></p>
+<p> </p>
+<p><span style="font-weight: 400;"> </span></p>
+<p> </p>
+<p><span style="font-weight: 400;"> </span></p>
+<p> </p>
+<p><span style="font-weight: 400;"> </span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/2019-a-year-for-the-record-books</id>
+    <published>2020-01-01T09:05:00-05:00</published>
+    <updated>2020-01-01T09:05:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/2019-a-year-for-the-record-books"/>
+    <title>2019...A YEAR FOR THE RECORD BOOKS!</title>
+    <author>
+      <name>Richard Ottenhof</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8">
+<p class="p1"><span class="s1">What a year 2019 was!</span></p>
+<p class="p1"><span class="s1">22 years after I founded my coffee roasting business, we have never experienced a year of such growth in both business volume and product offering.<span class="Apple-converted-space"> <span> </span></span>In 2019 we grew an incredible 27% over the previous year and I feel like we haven’t even put our foot on the accelerator yet.</span></p><p><a class="read-more" href="https://www.northroast.com/blogs/news/2019-a-year-for-the-record-books">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p class="p1"><span class="s1">What a year 2019 was!</span></p>
+<p class="p1"><span class="s1">22 years after I founded my coffee roasting business in Kingston Ontario, we have never experienced a year of such growth in both business volume and product offering.<span class="Apple-converted-space">  </span>In 2019 we grew an incredible 27% over the previous year and I feel like we haven’t even put our foot on the accelerator yet.</span></p>
+<p class="p1" style="text-align: left;"><img alt="" src="//cdn.shopify.com/s/files/1/0286/6846/files/Blog3_large.jpg?v=1577886768" style="float: none;"></p>
+<p class="p1"><span class="s1">In 2019 we fine tuned the appearance of our wholesale roastery and added another espresso machine specifically for training.<span class="Apple-converted-space">  </span>I expect to put our world class La Marzocco Linea Paddle to good use this year. </span></p>
+<p class="p1" style="text-align: left;"><img alt="" src="//cdn.shopify.com/s/files/1/0286/6846/files/Blog1_large.jpg?v=1577886176" style="float: none;"></p>
+<p class="p1"><span class="s1">I</span><span class="s1">n September we also created a program called CAF•FEINE whereby our customers could donate their Loyalty Rewards Points, or purchase coffee for Canadian Armed Services Members serving overseas.<span class="Apple-converted-space">  </span>With the help of the Kingston Military Family Resource Centre, to date, we’ve arranged to have this coffee shipped to units serving in Iraq, Qatar, Kuwait, Romania, Latvia and Israel.<span class="Apple-converted-space">  </span>This program took 9 months from conception to launch, and resulted in over 175 lbs of coffee being sent overseas to the deserving men and women of our Canadian Forces. </span></p>
+<p class="p1" style="text-align: left;"><span class="s1"><img alt="" src="//cdn.shopify.com/s/files/1/0286/6846/files/NewBag_Espresso_large.jpg?v=1577886264" style="float: none;"><img alt="" src="//cdn.shopify.com/s/files/1/0286/6846/files/NewBag_Compostable_large.jpg?v=1577886296" style="float: none;"></span></p>
+<p class="p1"><span class="s1">I</span><span class="s1">n 2019, again after months of planning and iterations, we introduced our 100% compostable coffee bag.<span class="Apple-converted-space">  </span>This bag has many features including beautiful graphics, the ability to retain freshness, a Roast Date stamp on the back of the bag, and best of all, it’s compostable!</span></p>
+<p class="p1"><span class="s1">We couldn’t have made such major improvements to our business without the loyal support of our customers and the dedicated work of our staff, who make every effort to inform and serve.</span></p>
+<p class="p1"><span class="s1">Thank you for an unbelievable 2019 and trust me when I say that 2020 will see even more remarkable improvements to North Roast Coffee and Coffeeco.</span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/new-100-compostable-bags</id>
+    <published>2019-12-04T12:46:00-05:00</published>
+    <updated>2019-12-04T12:48:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/new-100-compostable-bags"/>
+    <title>New 100% Compostable Bags</title>
+    <author>
+      <name>Multatuli Staff</name>
+    </author>
+    <summary type="html">
+      <![CDATA[We are all incredibly proud to take delivery of our new 100% Compostable Coffee Bag! This bag has been months in the planning but worth the wait.<p><a class="read-more" href="https://www.northroast.com/blogs/news/new-100-compostable-bags">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p><img src="//cdn.shopify.com/s/files/1/0286/6846/files/6C2868F8-9B46-4C38-89FA-2EFCEF8318BC_medium.jpeg?v=1575481037" alt=""></p>
+<p>We are all incredibly proud to take delivery of our new 100% Compostable Coffee Bag!  This bag has been months in the planning but worth the wait.  We all know that we need to reduce waste and take notice of our impact on our environment.  While we've had compostable paper bags at our Roastery for years, they weren't the best fit for retaining freshness in a retail environment, and they required the application of a printed label.  These new bags are able to be heat sealed to retain freshness, and are pre printed such that we eliminate all stickers and labelling.   These bags will no longer be fitted with a tin tie for sealing the bag once opened, instead we will have small, reusable metal clips available to hold the bag closed once it is opened. Initially we will start shipping these bags to all online orders, and switch completely all packaging over once the full shipment of bags arrives in a couple weeks.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/coffee-porter-collaboration</id>
+    <published>2019-04-28T21:31:00-04:00</published>
+    <updated>2019-04-28T21:35:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/coffee-porter-collaboration"/>
+    <title>Coffee Porter Collaboration!</title>
+    <author>
+      <name>Richard Ottenhof</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><span>While I'm not qualified to speak about craft beer brewing, I am qualified through years of careful sipping on quality beer every now and then, to declare this batch of Coffee Porter to be the best I've tasted, period.</span><p><a class="read-more" href="https://www.northroast.com/blogs/news/coffee-porter-collaboration">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>We've been asked to work with brewers before, using coffee as a component in a craft beer.  To be honest, the results weren't great...until we worked with <a href="http://www.kingstownbeerco.ca/" title="King's Town Beer Company">King's Town Beer Company!</a></p>
+<p><img src="//cdn.shopify.com/s/files/1/0286/6846/files/white-on-black_medium.jpg?v=1556500606" alt=""></p>
+<p>When Mike (the Brew Master) at King's Town said he was creating a Coffee Porter I was intrigued and hoping for the best.  The opportunity to combine my two favourite beverages was not something to be ignored.  For our part we brewed an extra strong batch of our Cold Brew Coffee, and delivered 32 litres of thick concentrate that was rich and chocolatey and loaded with caffeine.  Then we handed our sweet black nectar off to King's Town to do their thing.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0286/6846/files/coffee_porter_medium.jpg?v=1556501282" alt=""></p>
+<p>While I'm not qualified to speak about craft beer brewing, I am qualified through years of careful sipping on quality beer every now and then, to declare this batch of Coffee Porter to be the best I've tasted, period.  The flavour of coffee is derived 100% from our Fair Trade Organic concentrate, with no artificial flavouring. </p>
+<p>I encourage our loyal customers who are known to tip one every now and then, to make their way over to King's Town Beer Company on Arlington Park Place and grab the best Coffee Porter you are likely ever to taste.</p>
+<p> </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/two-awesome-new-items</id>
+    <published>2019-03-09T16:27:00-05:00</published>
+    <updated>2019-03-09T16:29:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/two-awesome-new-items"/>
+    <title>Two Awesome New Items</title>
+    <author>
+      <name>Multatuli Staff</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><img src="//cdn.shopify.com/s/files/1/0286/6846/files/kalita_and_diner_slider_large.jpg?v=1552165043" alt="Diner Mug and Kalita Kantan"></p>
+<p>We have a couple of new items in store and online that we're super excited about. First, we've brought in some custom branded diner mugs that are everything you'd want in a classic coffee mug. Weighing in at 500g, it is solid as a rock (it's actually porcelain) and a classic diner mug shape. When preheated, it holds the temperature of your coffee much longer than other mugs, and even looks great on your counter. We price these at cost for $7.50 because we want our brand in your kitchen!</p>
+<p><img src="//cdn.shopify.com/s/files/1/0286/6846/files/kalita_kantan_366x300_a3294296-5579-4cc1-834d-697e42e08398_medium.jpg?v=1552166931" alt="kalita kantan"></p>
+<p>Sitting on top of our mug is the fantastic Kalita Kantan brewer. It is a clever flat cardboard and filter paper rig that folds into a single cup brewer. The filter holds 15g (2 tablespoons) of ground coffee, and sits on top of your cup. Simply pour your "just off the boil water" through the filter and in a couple minutes you have a super fresh pourover coffee. These are a household item in Japan, and well known for its quality of construction. They come in a package of 30 filters, and are perfect for travel, camping, cottage etc...and are even compostable! $11.00 per package</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/our-new-amazon-store</id>
+    <published>2019-02-26T13:14:00-05:00</published>
+    <updated>2019-02-26T13:15:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/our-new-amazon-store"/>
+    <title>Our New Amazon Store</title>
+    <author>
+      <name>Richard Ottenhof</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Great news for fans of fresh coffee across Canada.  We've been approved as a manufacturer to sell directly to customers on <a href="https://www.amazon.ca/s?k=MANUAL+BREW+COFFEE&amp;ref=bl_dp_s_web_0" title="Manual Brew Coffee on Amazon">Amazon</a>, a process that takes a great deal of time and energy to complete.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0286/6846/files/Fracpac_amazon5_large.jpg?v=1551204783" alt=""></p>
+<p>Our initial listings are all our Manual Brew line of estate coffees in the interest of keeping pricing modest, and we are even offering FREE SHIPPING on single pot pouches of coffee in cases of 35 and 50 x 50g.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0286/6846/files/YYZ_amazon_pic_large.jpg?v=1551204858" alt=""></p>
+<p>By shipping directly from our Roastery, we are able to guarantee that customers are getting coffees days from being removed hot from the roaster and packaged quickly to preserve freshness without the need to stock a remote warehouse full of aging coffee. </p>
+<p>Sourced by us, roasted by us, packaged by us, shipped by us...fresh!</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/new-equipment-for-new-and-existing-customers</id>
+    <published>2019-02-11T11:52:00-05:00</published>
+    <updated>2019-02-11T11:52:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/new-equipment-for-new-and-existing-customers"/>
+    <title>New Equipment for New (and existing) Customers!</title>
+    <author>
+      <name>Multatuli Staff</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><img src="//cdn.shopify.com/s/files/1/0286/6846/files/rancilio_b_w_large.jpg?v=1549903794" alt=""></p>
+<p>We are launching an outreach to new and existing customers to provide brand new coffee and espresso equipment to ease the financial burden of upgrading or stocking a new café or restaurant with expensive equipment.  Whether you need to replace your coffee grinder, espresso grinder, coffee brewer or top of the line espresso machine, we can help.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0286/6846/files/bunn_brewer_2_large.png?v=1549903861" alt=""></p>
+<p>Within this program, we are able to provide extremely low monthly payment rates to customers ranging from $25 per month for a commercial coffee maker, to $300 per month for a top line commercial espresso machine worth $10,000.</p>
+<p>If this sounds good to you, and is something you'd like to discuss, reach out to us with an email and list the equipment needs you have, and we'll put together a low budget solution to your top shelf equipment needs.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/new-website-launch</id>
+    <published>2018-12-30T16:04:00-05:00</published>
+    <updated>2019-01-02T10:45:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/new-website-launch"/>
+    <title>New Website Launch</title>
+    <author>
+      <name>Richard Ottenhof</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><img src="//cdn.shopify.com/s/files/1/0286/6846/files/IMG_2774_large.JPG?v=1546204107" alt=""></p>
+<p>In early January we will be introducing a new version of our Website that will feature current video content, a Newsletter feature that announces special events, and a new link to a Special Cause we are adopting as a destination for our fundraising activities.  The new website may have some flaws in the first few days, so please feel free to point them out and we'll address them immediately.</p>
+<p>* Recurring Orders Options are not appearing on the Website right now, but will appear within the next 24 hrs once some coding is sorted.  It will not affect anyone's existing Recurring Orders.</p>
+<p>We hope that our customers appreciate our efforts to constantly improve our services and facilities, and strive to ensure that both meet the high standards set by the quality and freshness of our coffee.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/winter-blend-is-here</id>
+    <published>2018-12-17T13:41:00-05:00</published>
+    <updated>2018-12-18T18:16:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/winter-blend-is-here"/>
+    <title>Winter Blend is Here</title>
+    <author>
+      <name>Multatuli Staff</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><iframe width="560" height="315" src="https://www.youtube.com/embed/e-B7KWtJ_HQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<p>We are roasting and packaging our new Winter Blend in the final days leading up to Christmas.  This is a powerful blend of two classic Pacific coffees that delivers a straight on punch of intense flavour.  This is NOT your grandma's coffee, unless your grandma was a test pilot or skated Roller Derby etc.<img src="//cdn.shopify.com/s/files/1/0286/6846/files/IMG_3100_large.JPG?v=1545071777" alt="">   </p>
+<p>This is a perfect coffee to shake you up on a cold morning, when the snow plough leaves you a present at the end of the driveway, and you have some place to be.  We've got you covered.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/new-wall-mural</id>
+    <published>2018-11-29T19:59:00-05:00</published>
+    <updated>2018-12-07T10:37:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/new-wall-mural"/>
+    <title>New Wall Mural</title>
+    <author>
+      <name>Richard Ottenhof</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><span>We welcome customers to have some fun and post photos to their instagram, facebook and twitter feeds and tag our location for a chance to win a pound of coffee and a perfectly poured cappuccino or latte for you and a friend.</span><p><a class="read-more" href="https://www.northroast.com/blogs/news/new-wall-mural">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p><iframe width="560" height="315" src="https://www.youtube.com/embed/DDgG1NLszdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<p>One of our team is a very talented artist.  Sami, who seems to be able to do just about anything except dunk a basketball offered to paint a mural I've been musing about for a few weeks.  The idea was to create a mural of a coffee pot pouring coffee down the wall so that if a person were to place themselves underneath it, it would appear to soak them with the wonderful brew.  Depending on how far you choose to stand away from the wall, you can create interesting photographs similar to ones tourists take when visiting the Leaning Tower of Pisa.</p>
+<p>We welcome customers to have some fun and post photos to their instagram, facebook and twitter feeds and tag our location for a chance to win a pound of coffee and a perfectly poured cappuccino or latte for you and a friend.<img src="//cdn.shopify.com/s/files/1/0286/6846/files/DSCF3218_large.JPG?v=1543539342" alt=""></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/open-saturdays</id>
+    <published>2018-11-05T12:52:00-05:00</published>
+    <updated>2018-11-05T12:55:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/open-saturdays"/>
+    <title>Open Saturdays!</title>
+    <author>
+      <name>Multatuli Staff</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><strong>We've decided to open on Saturdays again from 10 am to 2 pm</strong><span> to scoop coffee and sell from our extensive stock of manual brewing and pourover equipment.  Even better still, our shipping container espresso bar will also open the same hours to make perfect espresso based drinks, hot chocolate, coffee and tea!  </span><p><a class="read-more" href="https://www.northroast.com/blogs/news/open-saturdays">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p><img src="//cdn.shopify.com/s/files/1/0286/6846/files/IMG_2428_large.JPG?v=1527812314" alt=""></p>
+<p>We've been in business over 20 years now and many of you have been with us the whole time.  If you remember prior to  opening our coffeeco espresso bars, we always opened on Saturdays at our roastery to serve whole beans but decided that once we had our retail stores operating, customers had ample opportunity to purchase our coffee at either coffeeco location on weekends.</p>
+<p>Since we no longer have our two espresso bars, <strong>we've decided to open on Saturdays again from 10 am to 2 pm</strong> to scoop coffee and sell from our extensive stock of manual brewing and pourover equipment.  Even better still, our shipping container espresso bar will also open the same hours to make perfect espresso based drinks, hot chocolate, coffee and tea!  We hope to see many familiar faces and to meet some new folks who value fresh coffee at fair prices and to buy hot from the roaster.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/cold-brew-coffee-cheat-sheet</id>
+    <published>2018-07-27T19:49:00-04:00</published>
+    <updated>2019-04-05T13:19:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/cold-brew-coffee-cheat-sheet"/>
+    <title>Cold Brew Coffee Cheat Sheet</title>
+    <author>
+      <name>Richard Ottenhof</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<strong>Cold Brew</strong><span> </span><strong>Coffee</strong><span> is everywhere.  Check out your grocery shelves and you'll spot overpriced canned cold brew (likely already past its stale date), commercials for cold brew on television, and high priced cold brew at your local cafe.  We've a better way.</span><p><a class="read-more" href="https://www.northroast.com/blogs/news/cold-brew-coffee-cheat-sheet">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p><strong>Cold Brew Coffee </strong>is everywhere.  Check out your grocery shelves and you'll spot overpriced canned cold brew (likely already past its stale date), commercials for cold brew on television, and high priced cold brew at your local cafe.  We've a better way.</p>
+<p>Introducing our Cold Brew How To:  Follow these directions and you'll never go wrong.</p>
+<ul>
+<li>Grab a bag of our special Cold Brew Blend which is already perfectly ground for cold brewing.  Directions are also printed on the back of the bag!</li>
+<li>Use a 4:1 ration of clean filtered water to  ground coffee.  (100 g per litre of water)</li>
+<li>Place ground coffee in French press or other vessel making sure to completely wet all grounds thoroughly...STIR</li>
+<li>Place coffee on counter for 12-24 hours and cover.</li>
+<li>Filter with plunger from French press or through a mesh/paper filter if using an other vessel.</li>
+<li>Refrigerate and serve with cold water for iced coffee or milk for iced cappuccino.</li>
+<li>Remember:  this produces a concentrate and is meant to be diluted with ice, water or milk.</li>
+<li><strong>Keep in refrigerator for up to two weeks.</strong></li>
+</ul>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/how-to-make-turkish-coffee</id>
+    <published>2018-07-10T13:15:00-04:00</published>
+    <updated>2018-07-23T14:29:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/how-to-make-turkish-coffee"/>
+    <title>How To Make Turkish Coffee</title>
+    <author>
+      <name>Richard Ottenhof</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<span>Turkish coffee is easily my favourite way to drink coffee.  Thick, aromatic and sweet.  It reminds me more of dessert than a traditional North American style brewed coffee.</span><p><a class="read-more" href="https://www.northroast.com/blogs/news/how-to-make-turkish-coffee">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>c  The equipment you'll need is easily accessed and very reasonably priced...especially if you search the internet for a Turkish Coffee Pot.</p>
+<p>What you'll need:</p>
+<ul>
+<li>A freshly ground African coffee.  Ethiopia or Tanzania are the best choices although Brazilian (South America) is popular as well.  Grind to a baby powder consistency.  You can purchase a grinder specifically for Turkish coffee but it's easier to have us grind it for you.</li>
+<li>Fresh cold water</li>
+<li>Turkish coffee pot or Cezve.  Make sure it is suited to the type of heat you are applying.  There are some that work with induction stoves, but double check.</li>
+<li>Sugar.  Pure cane juice crystals is best, but any will do.</li>
+</ul>
+<ol>
+<li>Measure enough water to fill no more than half the volume of your coffee pot.  The coffee will froth considerably and will overflow if you put too much water into the pot.</li>
+<li>Heat the water on the stove until small pearls of air appear.  Do not let the water approach boiling.</li>
+<li>Add approximately 1/4 teaspoon of sugar per 3 oz of water.  Do not stir.</li>
+<li>Add approximately 1 tablespoon of Turkish coffee per 3 ounces of water.  The coffee will rest on top of the water.  Do not stir<img src="//cdn.shopify.com/s/files/1/0286/6846/files/IMG_2633_large.jpg?v=1531242739" alt="">
+</li>
+<li>As the water heats the coffee will begin to roll and froth.  This happens very quickly and so you'll need to be watchful.  Take your spoon and stir gently.</li>
+<li>When a rolling ring of foam forms, turn the heat to low and move the pot away from the element.  Be very careful because the foam can quickly overtake the pot and bubble over.   Bringing the pot to a full boil will break the Crema and ruin the brew.</li>
+<li><img src="//cdn.shopify.com/s/files/1/0286/6846/files/IMG_2635_large.jpg?v=1531242821" alt=""></li>
+<li>Keep the pot and contents frothing by lifting and lowering the pot onto the element.  Repeat the froth-settle-froth-settle not more than three times.  Pour a little of the sweet brew into the cups quickly to deposit the Crema into each cup.  Once the Crema is in each cup, pour the rest of the brew into the cups taking care not to disturb the Crema.  You can also use a spoon to place the Crema into each cup...the most senior guest gets the first cup with the best Crema.  <img src="//cdn.shopify.com/s/files/1/0286/6846/files/IMG_2646_large.jpg?v=1531242856" alt="">
+</li>
+</ol>
+<p>I hope you'll have fun with this and acquire a taste for the best, and arguably the most traditional way of preparing coffee.  There are many variations on how to make traditional Turkish Coffee so you are encouraged to experiment...just no boiling.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/the-summer-of-aeropress</id>
+    <published>2018-06-07T12:20:00-04:00</published>
+    <updated>2018-07-23T14:32:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/the-summer-of-aeropress"/>
+    <title>The Summer of Aeropress</title>
+    <author>
+      <name>Richard Ottenhof</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<span>Those in the know recognize the Aeropress Brewer as one of the best ways to make coffee at home or on the road.   Priced at a very modest $45.00, the Aeropress goes perfectly with our Espresso Blend or any of the Manual Brew coffees specifically blended for use in Manual Brewing devices.</span><p><a class="read-more" href="https://www.northroast.com/blogs/news/the-summer-of-aeropress">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p><img src="//cdn.shopify.com/s/files/1/0286/6846/files/aeropress_blog_pic_large.jpg?v=1528388254" alt=""></p>
+<p>Those in the know recognize the Aeropress Brewer as one of the best ways to make coffee at home or on the road.  The "dwell time" or time the ground coffee is in contact with the water, "turbulence" or the vigour with which you stir the brewing coffee, the simplicity of forcing the coffee and water under pressure through a filter to produce and intense brew, and the ease in cleaning all make the Aeropress a barista favourite.</p>
+<p>Better still, the BPA free plastic is the most easily transported brewing method, perfect for the cottage, road trips or a camping get away.  We have many many military members who pack the Aeropress on field exercises and any serious backcountry hiker or canoeist knows it is virtually unbreakable.</p>
+<p>Priced at a very modest $45.00, the Aeropress goes perfectly with our Espresso Blend or any of the Manual Brew coffees specifically blended for use in Manual Brewing devices.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/our-new-roastery</id>
+    <published>2018-05-26T11:11:00-04:00</published>
+    <updated>2018-06-07T12:29:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/our-new-roastery"/>
+    <title>Our New Roastery</title>
+    <author>
+      <name>Richard Ottenhof</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<span>When you come to our roastery, the most prominent thing you'll notice is the placement of two shipping containers inside the space.</span><p><a class="read-more" href="https://www.northroast.com/blogs/news/our-new-roastery">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p><img src="//cdn.shopify.com/s/files/1/0286/6846/files/IMG_2353_large.JPG?v=1527347465" alt=""></p>
+<p>Over the past several months we have quietly but diligently been perfecting the function, fittings and fixtures of our new warehouse roastery and we think we've done a great job.  </p>
+<p> </p>
+<p>Our long time customers know our former location was getting a little tired and our staff know that we had outgrown it's limited space.  When a much larger space became available right next door we jumped at the opportunity to create an atmosphere where we could fulfill our dream of having an interactive space suitable for hosting cupping, brewing, roasting and espresso technique educational events.</p>
+<p>Most of the new features you'll enjoy when you visit were built by us, right on site.  The wooden beams suspended from the roof trusses, the reclaimed wooden cabinet fronts, custom 10' community table and brewing equipment display shelving were all conceived and built by us.  </p>
+<p>When you come to our roastery, the most prominent thing you'll notice is the placement of two shipping containers inside the space.  One of these containers serves as our office and the other is a custom built fully functional espresso bar.  When you visit, you will be presented with the most authentic coffee experience you'll encounter anywhere.  Our large 30 kg roaster is on full display for customers to see, we place many of our green coffee bags in the front retail area for customers to review, and of course our wholesale pricing straight from the roaster provides unsurpassed value. </p>
+<p>Our Coffeeco Espresso Bar is a visual marvel where you can enjoy a perfectly crafted cappuccino or manual brew coffee using only our Fair Trade Organic Coffee and Local Limestone Organic Creamery Milk.  </p>
+<p><img src="//cdn.shopify.com/s/files/1/0286/6846/files/IMG_2425_large.JPG?v=1527347363" alt=""></p>
+<p>For the time being, we are open Monday to Friday 8am - 5pm and closed Saturday and Sunday but will review our hours in the Fall once we've fully settled in.  We look forward to your visit, but if you can't make it out remember we deliver free of charge anywhere inside Kingston when you order online.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/gift-baskets-wedding-and-events-favours</id>
+    <published>2018-05-26T10:34:00-04:00</published>
+    <updated>2018-05-26T10:35:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/gift-baskets-wedding-and-events-favours"/>
+    <title>Gift Baskets, Wedding and Events Favours</title>
+    <author>
+      <name>Richard Ottenhof</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<span>We have a special packaging machine which packages over 500 pouches per hour, and can print custom graphics on each pouch...logos, event details or wedding day details.</span><p><a class="read-more" href="https://www.northroast.com/blogs/news/gift-baskets-wedding-and-events-favours">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>It was recently pointed out to me that we do some amazing things that we don't promote or share with all our customers. One of the things we do is package coffee in small pouches suitable for a single pot of coffee.  This type of packaging is known in the coffee business as fractional packaging or frac packs.</p>
+<p>We have a special packaging machine which packages over 500 pouches per hour, and can print custom graphics on each pouch...logos, event details or wedding day details.  We have many different coffees available to package, fair trade, organic, conventional estate coffees or even special limited edition coffees in all different price ranges.  We can even work with you to create a custom coffee blend that perfectly compliments your special day, promotion or event.  </p>
+<p>The best thing about this special service we provide is that we don't charge anything extra for this service, you'll pay the same price our wholesale commercial customers pay.  If you are looking for a unique way to show your guests or customers that you've got them covered, reach out to us and let's talk about creating a custom coffee pack that says something about you.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/loyalty-rewards-making-things-easier</id>
+    <published>2018-02-09T16:22:00-05:00</published>
+    <updated>2018-02-09T16:49:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/loyalty-rewards-making-things-easier"/>
+    <title>Loyalty Rewards - Making Things Easier</title>
+    <author>
+      <name>Richard Ottenhof</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>We made a change in our Loyalty Rewards Program to make it easier to get your $10 discount for your online purchase.</p>
+<p>Beginning today you can simply redeem your reward for $10 discount on your order and have it applied directly to your order without needing to wait for an email and then copy down the code and paste it back into the purchase order.  One step instead of the three steps required under the old program.</p>
+<p>Having the Reward available for ALL ONLINE ORDERS gives Loyalty Rewards Members maximum flexibility to apply their Reward to their favourite products without exception, Coffee, Tea, Equipment, Brewers.</p>
+<p>For customers who prefer to pick up their coffee at our Roastery or have their coffee delivered within the City of Kingston, simply indicate that preference when completing your online order Shipping details.  Both options are free of charge!</p>
+<p>For information on how to sign up for Loyalty Rewards or to Redeem Points for a Rewards, visit the <strong>Loyalty Rewards FAQ</strong> tab on our HOME PAGE.</p>
+<p> </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/big-changes-at-coffeeco-market-square</id>
+    <published>2017-09-14T21:12:00-04:00</published>
+    <updated>2017-09-14T21:12:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/big-changes-at-coffeeco-market-square"/>
+    <title>Big Changes At Coffeeco Market Square</title>
+    <author>
+      <name>Richard Ottenhof</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p class="p1"><span class="s1">Tonight I convened a staff meeting at Coffeeco Market Square to inform our team that we have successfully completed an agreement to sell our location at 322 King Street East on Market Square.<span class="Apple-converted-space">  </span>The purchasers are the same team who acquired our Kingston Centre location, and will similarly rebrand the location “Kingston Coffee House”.</span></p>
+<p class="p1"><span class="s1">An important part of this sale is a long term coffee supply agreement to guarantee our existing customers access to the highest quality and freshest coffee in Kingston, Multatuli and North Roast Coffee.</span></p>
+<p class="p1"><span class="s1">Another important factor is the fact that we are retaining the Coffeeco name which will represent a new “Mobile” coffee concept we are currently building and will introduce at our new larger roastery next door to our existing location at 721 Progress Avenue.<span class="Apple-converted-space">  </span>This new concept will see a full functioning espresso bar placed within a custom shipping container capable of being dropped on any vacant lot, parking lot, special event or in our case, within the walls of an existing building.<span class="Apple-converted-space">  </span>I’ll post some pics tomorrow of our container in the process of being constructed.</span></p>
+<p class="p1"><span class="s1">Last, our new larger roasting plant will feature a completely open concept to make the roasting and packaging an interactive process for customers who want to know how their food in made.<span class="Apple-converted-space">  </span>We will also have a professional barista training station to permit us to train or upgrade the staff of existing customers, and to hold training events for aspiring home baristas.</span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/last-week-at-kingston-centre</id>
+    <published>2017-03-26T16:05:00-04:00</published>
+    <updated>2017-03-26T16:07:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/last-week-at-kingston-centre"/>
+    <title>Last Week At Kingston Centre</title>
+    <author>
+      <name>Richard Ottenhof</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>This is our last week of operating our Coffeeco Espresso Bar at the Kingston Centre location.  We have enjoyed 8 1/2 years of profitable operation in this busy location, but have decided that we would not be renewing our lease when it expires in 2018, and instead focus on our wholesale roasting operation.  </p>
+<p>As mentioned in my previous post, we have agreed to sell this location to a long time employee and her husband, who will operate under the new name of "The Kingston Coffee House".  Rest assured that the new owners will continue to offer our fresh, fair trade organic coffee exclusively, and to continue to bake on site, and offer only organic milk for every drink on the menu.  All customers who have accumulated loyalty rewards points at this location can still use their Gift Cards at either Coffeeco in Market Square, Multatuli Coffee on Progress Avenue or online.  </p>
+<p>I expect to be making an exciting announcement regarding the relocation of our Wholesale Roastery, and the creation of a Regional Centre for coffee roasting, coffee equipment, hands on coffee education and espresso training in Kingston.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/big-changes-coming-soon</id>
+    <published>2017-02-22T20:31:00-05:00</published>
+    <updated>2017-02-22T20:58:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/big-changes-coming-soon"/>
+    <title>Big Changes Coming Soon</title>
+    <author>
+      <name>Richard Ottenhof</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>We’re making big changes!</p>
+<p>This is our 20<sup>th</sup> year in the coffee roasting business, and we’re not content to sit still.</p>
+<p> </p>
+<p>Back in 2008 we opened an espresso bar at the corner of Division and Johnson Street, after recognizing that no cafes in Kingston were selling proper espresso and cappuccino, and had limited interest in learning how. I’ve been active in the Specialty Coffee Association of America, as a Lead Instructor in Roasting, Cupping and Barista Techniques and felt it time to share the skills I had with the Kingston Coffee drinking public. Since we opened that store, we quickly opened a second at the Kingston Centre, and then relocated the original store to our fantastic Market Square store.</p>
+<p>Almost 9 years later, there are many espresso bars serving nice cappuccinos and espresso, including our coffeeco espresso bars, with many of them using our coffees.</p>
+<p>While building retail coffee stores puts you in direct contact with customers, it requires a lot of effort, day in day out, which necessarily reduces the amount of time I get to spend at the Roaster, where I like to be.</p>
+<p> </p>
+<p>Consequently, I have decided to sell the Kingston Centre Coffeeco store to one of our long time workers and her husband, who will continue to run the location in much the same manner as customers became accustomed but with an expanded food menu. The store at the Kingston Centre will acquire a new name, but will still continue to sell and prepare our North Roast/Multatuli Coffee and serve only organic milk.  This transition will take place March 31.</p>
+<p> </p>
+<p>We will continue to operate the Coffeeco at Market Square and focus on Roasting, Wholesale, Barista Training, and Training for home baristas at a soon to be announced 5000 Square Foot Interactive Roastery and Coffee Education Centre.</p>
+<p> </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/new-1-lb-coffee-bags-coming-soon</id>
+    <published>2016-12-06T15:46:00-05:00</published>
+    <updated>2016-12-06T15:47:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/new-1-lb-coffee-bags-coming-soon"/>
+    <title>New 1 LB Coffee Bags Coming Soon!</title>
+    <author>
+      <name>Richard Ottenhof</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>In early 2017 we will be discontinuing our coffee cans and switching to 1 LB Bags.  Bag technology ( there is such a thing ) has evolved a great deal in the past dozen years, and the bags we've purchased stand upright easily on their own, and offer plenty of flat panels to display information that will be helpful to our customers.  We have also purchased a custom colour label printer to make it easier to offer small lots of select coffees, and to frequently update the look of our packaging.</p>
+<p>We expect to be adding some small lot special coffees to our offerings, but will continue to focus on Fair Trade Organic Coffees, which provide proven and verified benefits to the small farmers who grow your coffee.</p>
+<p> </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/canada-post-strike</id>
+    <published>2016-07-04T11:41:00-04:00</published>
+    <updated>2016-07-04T11:44:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/canada-post-strike"/>
+    <title>Canada Post Strike</title>
+    <author>
+      <name>Multatuli Staff</name>
+    </author>
+    <content type="html">
+      <![CDATA[Don't worry, we have everything covered in the event of a Canada Post Strike.  We are already shipping via other methods this morning, and will continue to do so until we are certain that there will be no interruption to delivery schedules.  We have left existing Canada Post shipping rates online so that you can be assured that you are not paying more for using an alternative shipping method...we'll cover the difference.  As always, all customers who order for in town delivery, or orders over $50 do not pay for shipping regardless.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/blogs/news/88837636-drink-fresh-coffee</id>
+    <published>2016-03-01T11:43:00-05:00</published>
+    <updated>2016-03-01T11:47:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/blogs/news/88837636-drink-fresh-coffee"/>
+    <title>Drink Fresh Coffee!</title>
+    <author>
+      <name>Richard Ottenhof</name>
+    </author>
+    <content type="html">
+      <![CDATA[I am motivated to post this after noticing a local business advertising coffee as "The World's Finest Fair Trade Coffee".  Curious, I sought to uncover who roasted the coffee, when it was roasted, any details about the origins, package date...any of the factors which would support a claim of "World's Finest Coffee".  Sadly, the coffee in question had almost no information, although it did have a nice bag with colourful labels.  Great coffee isn't roasted hundreds of miles away, months ago, in some industrial factory, or sketchy back alley...it's roasted locally, or shipped directly to the end user, within days of roasting, with a roasting date that you are proud of.  We pride ourselves on only selling fresh coffee, on limiting how much customers order so they frequently restock with fresh coffee, and provide maximum transparency to the end user.  If you want to see your coffee roasted, come out to our Roastery on Progress Avenue and you can have an impromptu tour and experience the noise, aromas and bustle of fresh coffee roasting.  Drink Fresh Coffee!]]>
+    </content>
+  </entry>
+</feed>

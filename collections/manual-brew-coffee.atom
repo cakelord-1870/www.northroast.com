@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.northroast.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.northroast.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.northroast.com/collections/manual-brew-coffee.atom"/>
+  <title>North Roast Coffee Roaster</title>
+  <updated>2018-08-23T21:24:55-04:00</updated>
+  <author>
+    <name>North Roast Coffee Roaster</name>
+  </author>
+  <entry>
+    <id>https://www.northroast.com/products/1457749852229</id>
+    <published>2018-08-23T21:24:55-04:00</published>
+    <updated>2018-08-23T21:24:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/manual-brew-yqx-gander"/>
+    <title>Manual Brew YQX-Gander</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/YQX_Bag.jpg?v=1535074913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>Toasty and apricot fragrance with a spicy aroma.  Graham Cracker honey  sweetness.  Nice body with a clean finish.  Very plush mouthfeel.  Medium Roast.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.northroast.com/products/1457749852229</id>
+      <title>Whole Bean / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1457749852229</id>
+      <title>Whole Bean / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1457749852229</id>
+      <title>French Press / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1457749852229</id>
+      <title>French Press / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1457749852229</id>
+      <title>Percolator / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1457749852229</id>
+      <title>Percolator / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1457749852229</id>
+      <title>Chemex/Melitta / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1457749852229</id>
+      <title>Chemex/Melitta / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1457749852229</id>
+      <title>Drip / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1457749852229</id>
+      <title>Drip / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1457749852229</id>
+      <title>Home Espresso / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1457749852229</id>
+      <title>Home Espresso / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1457749852229</id>
+      <title>Commercial Espresso / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1457749852229</id>
+      <title>Commercial Espresso / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1457749852229</id>
+      <title>Turkish / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1457749852229</id>
+      <title>Turkish / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/501890351119</id>
+    <published>2018-02-07T19:28:47-05:00</published>
+    <updated>2018-02-07T19:28:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/manual-brew-yxy-whitehorse"/>
+    <title>Manual Brew YXY-Whitehorse (Dark Decaf)</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/YXY_bag_718d9e6e-6878-4430-b913-785c51af386e.jpg?v=1518300566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-single__description rte" itemprop="description" style="box-sizing: border-box; color: #788188; margin-bottom: 35px; margin-top: 30px; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><span style="color: #788188; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;">Full Body and Sweet Aroma.  Caramelized Brisket and Delicious Apple.  You won't believe this is a decaf coffee!  Dark Roast.</span></div>
+<div class="product-single__description rte" itemprop="description" style="box-sizing: border-box; color: #788188; margin-bottom: 35px; margin-top: 30px; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">North Roast Coffee is your Wholesale Fair Trade Organic Coffee Roaster founded in 1997. Visit us in Kingston, Ontario or order online today!</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dark Roast</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890351119</id>
+      <title>Whole Bean / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890351119</id>
+      <title>Whole Bean / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890351119</id>
+      <title>French Press / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890351119</id>
+      <title>French Press / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890351119</id>
+      <title>Percolator / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890351119</id>
+      <title>Percolator / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890351119</id>
+      <title>Chemex/Melitta / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890351119</id>
+      <title>Chemex/Melitta / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890351119</id>
+      <title>Drip / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890351119</id>
+      <title>Drip / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890351119</id>
+      <title>Home Espresso / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890351119</id>
+      <title>Home Espresso / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890351119</id>
+      <title>Commercial Espresso / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890351119</id>
+      <title>Commercial Espresso / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890351119</id>
+      <title>Turkish / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890351119</id>
+      <title>Turkish / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/501890285583</id>
+    <published>2018-02-07T19:28:47-05:00</published>
+    <updated>2018-02-07T19:28:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/manual-brew-yul-montreal"/>
+    <title>Manual Brew YUL-Montreal</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/YUL_bag_e96b25e3-8305-45f8-9eae-98f6e7b9280b.jpg?v=1518300525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-single__description rte" itemprop="description" style="box-sizing: border-box; color: #788188; margin-bottom: 35px; margin-top: 30px; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><em style="box-sizing: border-box; font-style: italic; color: #788188; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">Smooth toasted cashew. Dark smokey cocoa. Sweet molasses.  Lingering mouthfeel.  Dark Roast.</em></div>
+<div class="product-single__description rte" itemprop="description" style="box-sizing: border-box; color: #788188; margin-bottom: 35px; margin-top: 30px; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><em style="box-sizing: border-box; font-style: italic; color: #788188; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><span>When you just want to brew a small amount of </span><em>coffee</em><span> but don't want to sacrifice quality, </span><em>manual brewing</em><span> is a great option.</span></em></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dark Roast</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890285583</id>
+      <title>Whole Bean / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890285583</id>
+      <title>Whole Bean / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890285583</id>
+      <title>French Press / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890285583</id>
+      <title>French Press / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890285583</id>
+      <title>Percolator / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890285583</id>
+      <title>Percolator / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890285583</id>
+      <title>Chemex/Melitta / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890285583</id>
+      <title>Chemex/Melitta / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890285583</id>
+      <title>Drip / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890285583</id>
+      <title>Drip / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890285583</id>
+      <title>Home Espresso / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890285583</id>
+      <title>Home Espresso / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890285583</id>
+      <title>Commercial Espresso / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890285583</id>
+      <title>Commercial Espresso / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890285583</id>
+      <title>Turkish / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890285583</id>
+      <title>Turkish / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/501890187279</id>
+    <published>2018-02-07T19:28:47-05:00</published>
+    <updated>2018-02-07T19:28:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/manual-brew-yeg-edmonton"/>
+    <title>Manual Brew YEG-Edmonton</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/YEG_bag_16fa02b9-4fb8-41d7-b3c1-d8c61c556d4a.jpg?v=1518300485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-single__description rte" itemprop="description" style="box-sizing: border-box; color: #788188; margin-bottom: 35px; margin-top: 30px; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><span style="color: #788188; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;">Raisin and dried berries.  Spicy pipe tobacco and toasted marshmallow.  Pleasant bright finish.  Espresso Roast.</span></div>
+<div class="product-single__description rte" itemprop="description" style="box-sizing: border-box; color: #788188; margin-bottom: 35px; margin-top: 30px; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<span>When you just want to brew a small amount of </span><em>coffee</em><span> but don't want to sacrifice quality, </span><em>manual brewing</em><span> is a great option.</span>
+</div>
+<div class="product-single__description rte" itemprop="description" style="box-sizing: border-box; color: #788188; margin-bottom: 35px; margin-top: 30px; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><span style="color: #788188; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;"></span></div>
+<div class="product-single__description rte" itemprop="description" style="box-sizing: border-box; color: #788188; margin-bottom: 35px; margin-top: 30px; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><span style="color: #788188; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;">FROM OUR ROASTER, TO YOUR DOOR.<br>With our flexible coffee subscription program, you’ll never run out of coffee again. It allows you to choose which coffees, how much, and how often you want it.<br>'North Roast Coffee also known as Multatuli Coffee Merchants is your local Wholesale Fair Trade Organic Coffee Roaster founded in 1997. Visit us in Historic Kingston, Ontario, today!'<br></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dark Roast</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890187279</id>
+      <title>Whole Bean / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890187279</id>
+      <title>Whole Bean / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890187279</id>
+      <title>French Press / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890187279</id>
+      <title>French Press / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890187279</id>
+      <title>Percolator / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890187279</id>
+      <title>Percolator / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890187279</id>
+      <title>Chemex/Melitta / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890187279</id>
+      <title>Chemex/Melitta / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890187279</id>
+      <title>Drip / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890187279</id>
+      <title>Drip / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890187279</id>
+      <title>Home Espresso / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890187279</id>
+      <title>Home Espresso / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890187279</id>
+      <title>Commercial Espresso / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890187279</id>
+      <title>Commercial Espresso / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890187279</id>
+      <title>Turkish / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890187279</id>
+      <title>Turkish / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/501890088975</id>
+    <published>2018-02-07T19:28:47-05:00</published>
+    <updated>2018-02-07T19:28:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/manual-brew-ygk-kingston"/>
+    <title>Manual Brew YGK-Kingston</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/YGK_bag.jpg?v=1548524182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-single__description rte" itemprop="description" style="box-sizing: border-box; color: #788188; margin-bottom: 35px; margin-top: 30px; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<em style="box-sizing: border-box; font-style: italic; color: #788188; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><em style="box-sizing: border-box; font-style: italic; color: #788188; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">Fresh berries dominate the fragrance of our</em></em><em style="box-sizing: border-box; font-style: italic; color: #788188; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><em><span> </span><strong>YGK</strong><span> <strong>-</strong></span><strong> KINGSTON</strong> Manual Brew Coffee<span> </span></em>.  Caramel and sweet butter reveals itself when brewed yielding a full body and balanced cup.  Medium Dark Roast.</em>
+</div>
+<div class="product-single__description rte" itemprop="description" style="box-sizing: border-box; color: #788188; margin-bottom: 35px; margin-top: 30px; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><em style="box-sizing: border-box; font-style: italic; color: #788188; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"></em></div>
+<div class="product-single__description rte" itemprop="description" style="box-sizing: border-box; color: #788188; margin-bottom: 35px; margin-top: 30px; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><em style="box-sizing: border-box; font-style: italic; color: #788188; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><span>When you just want to brew a small amount of </span><em>coffee</em><span> but don't want to sacrifice quality, </span><em>manual brewing</em><span> is a great option.</span></em></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Medium Dark</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890088975</id>
+      <title>Whole Bean / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890088975</id>
+      <title>Whole Bean / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890088975</id>
+      <title>French Press / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890088975</id>
+      <title>French Press / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890088975</id>
+      <title>Percolator / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890088975</id>
+      <title>Percolator / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890088975</id>
+      <title>Chemex/Melitta / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890088975</id>
+      <title>Chemex/Melitta / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890088975</id>
+      <title>Drip / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890088975</id>
+      <title>Drip / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890088975</id>
+      <title>Home Espresso / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890088975</id>
+      <title>Home Espresso / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890088975</id>
+      <title>Commercial Espresso / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890088975</id>
+      <title>Commercial Espresso / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890088975</id>
+      <title>Turkish / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501890088975</id>
+      <title>Turkish / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/501889859599</id>
+    <published>2018-02-07T19:28:47-05:00</published>
+    <updated>2018-02-07T19:28:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/manual-brew-yyz-toronto"/>
+    <title>Manual Brew YYZ-Toronto</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/YYZ_bag_74bba16c-88e1-4f9c-a5e6-a1528febe09b.jpg?v=1518300585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-single__description rte" itemprop="description" style="box-sizing: border-box; color: #788188; margin-bottom: 35px; margin-top: 30px; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><em style="box-sizing: border-box; font-style: italic; color: #788188; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">Our <strong>YYZ - Toronto</strong> Manual Brew has a dry fragrance of blueberry and plum and a Caramel aroma in the cup.  Nice body with very pleasant fruity acidity and a sharp finish.  A very soft, lush mouthfeel.  Medium Roast</em></div>
+<div class="product-single__description rte" itemprop="description" style="box-sizing: border-box; color: #788188; margin-bottom: 35px; margin-top: 30px; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><span>Enjoy a nice up of coffee morning, noon or night. North Roast Coffee also known as Multatuli Coffee Merchants is your local Kingston Wholesale Fair Trade Organic Coffee Roaster founded in 1997.</span></div>
+<div class="social-sharing" style="box-sizing: border-box; color: #3d4246; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><span class="visually-hidden" style="box-sizing: border-box; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; border: 0px; position: absolute !important;"><a target="_blank" href="https://www.facebook.com/sharer.php?u=https://manualbrew.ca/products/medium-roast-blend" class="btn btn--small btn--secondary btn--share share-facebook" title="Share on Facebook" style="box-sizing: border-box; background-color: #ffffff; color: #3d4246; text-decoration: none; -webkit-user-select: none; -webkit-appearance: none; display: inline-block; width: auto; text-align: center; vertical-align: middle; cursor: pointer; border: 1px solid #e8e9eb; border-top-left-radius: 2px; border-top-right-radius: 2px; border-bottom-right-radius: 2px; border-bottom-left-radius: 2px; padding: 8px 10px; font-family: 'Work Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; white-space: normal; font-size: 0.75em; line-height: 1; margin-right: 5px; margin-bottom: 10px;" rel="noopener noreferrer">SHARE ON FACEBOOK</a></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Medium Dark</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/501889859599</id>
+      <title>Whole Bean / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501889859599</id>
+      <title>Whole Bean / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501889859599</id>
+      <title>French Press / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501889859599</id>
+      <title>French Press / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501889859599</id>
+      <title>Percolator / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501889859599</id>
+      <title>Percolator / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501889859599</id>
+      <title>Chemex/Melitta / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501889859599</id>
+      <title>Chemex/Melitta / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501889859599</id>
+      <title>Drip / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501889859599</id>
+      <title>Drip / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501889859599</id>
+      <title>Home Espresso / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501889859599</id>
+      <title>Home Espresso / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501889859599</id>
+      <title>Commercial Espresso / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501889859599</id>
+      <title>Commercial Espresso / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501889859599</id>
+      <title>Turkish / Valved Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/501889859599</id>
+      <title>Turkish / Compostable Paper Bag</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

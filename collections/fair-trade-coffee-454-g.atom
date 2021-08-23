@@ -1,0 +1,2222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.northroast.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.northroast.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.northroast.com/collections/fair-trade-coffee-454-g.atom"/>
+  <title>North Roast Coffee Roaster</title>
+  <updated>2021-08-18T17:27:19-04:00</updated>
+  <author>
+    <name>North Roast Coffee Roaster</name>
+  </author>
+  <entry>
+    <id>https://www.northroast.com/products/4815108669537</id>
+    <published>2021-08-18T17:27:19-04:00</published>
+    <updated>2021-08-18T17:27:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/the-tearoom-dark-roast-fair-trade-organic-dark-roast-454-g"/>
+    <title>The Tea Room Fair Trade Organic Dark Roast 454 g</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee Roaster</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/TeaRoom_a1a57933-b119-4c06-976c-d75df76573fd.jpg?v=1610067278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee Roaster<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Tea Room was established in 2006 as an environmentally friendly and socially conscious café in Beamish-Munro Hall of Queen's University.  The Tea Room is THE leader in the quest to create a café that is sustainable in every way.</p>
+<p>The Tea Room has decided to shut down due to the challenges of operating during covid-19 restrictions.  This is where we come in:</p>
+<p>Order your super fresh Fair Trade Organic Dark Roast in a 100% compostable bag and we'll deliver it FREE to your home or office in and around Kingston.  All orders over $50 receive FREE SHIPPING across Canada, even when combined with other products.  Every dollar of retail profit will go straight to The Tea Room as our way of supporting them during the most difficult environment for running a profitable café.</p>
+<p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dark Roast</s:tag>
+    <s:tag>fair trade</s:tag>
+    <s:tag>kingston</s:tag>
+    <s:tag>ontario</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>queens university</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/4815108669537</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4815108669537</id>
+      <title>French Press</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4815108669537</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4815108669537</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4815108669537</id>
+      <title>Drip</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4815108669537</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4815108669537</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4815108669537</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/6608681697377</id>
+    <published>2021-08-13T11:41:53-04:00</published>
+    <updated>2021-08-13T11:41:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/guatemala-fraijanes-el-tambor-454-g"/>
+    <title>Guatemala Fraijanes El Tambor 454 g</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/Fraijanes_Bag.jpg?v=1628870746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Guatemala is the source for some of the best coffee in the world.  The Fraijanes Region is south of Guatemala City on a Mesa at very high elevation.  El Tambor (The Drum) is named for the frequent tremors that shake the landscape and is a wonderful example of the best of Guatemala.  The El Tambor farm has a distinguished history at the Guatemala Cup of Excellence Awards and is known for organic practices and an idyllic environmental paradise.</p>
+<p>Peach, plum, gentle citrus acidity with a very creamy body.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Microlot</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/6608681697377</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/6608681697377</id>
+      <title>French Press</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/6608681697377</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/6608681697377</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/6608681697377</id>
+      <title>Drip</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/6608681697377</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/6608681697377</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/6608681697377</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/4810768154721</id>
+    <published>2021-08-04T10:49:59-04:00</published>
+    <updated>2021-08-04T10:49:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/rwanda-fair-trade-dark-roast-454-g"/>
+    <title>Rwanda Nyamyumba Medium Dark Roast 454 g</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee Roaster</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/Rwanda_Nyamyumba_Bag.jpg?v=1628787374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee Roaster<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Produced in the high mountain region of southern Rwanda .  One of our favourite coffees this year.  Beautiful example of Central African Coffee.</p>
+<p>Tasting Notes:  Bright Blueberry, honey, citrus, smooth.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dark Roast</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/4810768154721</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4810768154721</id>
+      <title>French Press</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4810768154721</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4810768154721</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4810768154721</id>
+      <title>Drip</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4810768154721</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4810768154721</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4810768154721</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/1328330965061</id>
+    <published>2021-05-20T06:29:24-04:00</published>
+    <updated>2021-05-20T06:29:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/cold-brew-blend-454-g"/>
+    <title>Polar Vortex Cold Brew 454 g</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/Polar_Vortex_Bag.jpg?v=1628787228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">We LOVE <strong>Cold Brew Coffee</strong>!  This blend is created to yield a full bodied sweet and smooth cold brew coffee, zero acidity, and a perfect base for all of your favourite cold coffee drinks.  No need for ANY sugar but we'll let you add some organic milk, almond, soy or a little nip of something if you're sitting around a campfire.  We stamp the roast date on the back of each of our 100% compostable coffee bags when it leaves the coffee roaster.<br>
+North Roast Coffee, in Kingston Ontario is your Wholesale Fair Trade Organic Coffee Roaster founded in 1997.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cold Brew</s:tag>
+    <s:tag>Manual Brew</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/1328330965061</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1328330965061</id>
+      <title>Coarse Grind</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/503468883983</id>
+    <published>2021-04-19T10:41:57-04:00</published>
+    <updated>2021-04-19T10:41:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/long-weekend-fair-trade-organic-454-g"/>
+    <title>Long Weekend Seasonal Blend  454 g | Coffee Roaster</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/Long_Weekend_Bag.jpg?v=1628787169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Is there anything we look forward to more than a Long Weekend?  Always fresh from the coffee roaster this favourite has excellent body, mild acidity and perfect balance supplies the boost you need for an extra day of play!  Medium dark roast.</p>
+<p></p>
+<p>FROM OUR ROASTER, TO YOUR DOOR.<br>
+With our flexible recurring order program, you’ll never run out of coffee again. It allows you to choose which coffees, how much, and how often you want it.<br>
+'North Roast Coffee is your local Wholesale Fair Trade Organic Coffee Roaster founded in 1997. Visit us in Historic Kingston, Ontario, today!'</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Medium Dark</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/503468883983</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/503468883983</id>
+      <title>French Press</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/503468883983</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/503468883983</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/503468883983</id>
+      <title>Drip</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/503468883983</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/503468883983</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/503468883983</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/4875438882913</id>
+    <published>2021-02-09T09:26:47-05:00</published>
+    <updated>2021-02-09T09:26:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/northern-lights-fair-trade-organic-454-g"/>
+    <title>Northern Lights Fair Trade Organic 454 g</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee Roaster</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/Northern_Lights_FTC.jpg?v=1628689490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee Roaster<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A clean, sharp coffee with pronounced fruity flavours, full body, and aroma that jumps out of the cup.  Roasted medium to fully develop body and round out the fruit to a sweeter profile.  We stamp the roast date on the back of each 100% compostable coffee bags when it leaves the coffee roaster.<br>
+Come visit us at our Roastery on Progress Avenue and see our coffee roaster and breath in the fragrance of fresh coffee that surrounds you.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.northroast.com/products/4875438882913</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4875438882913</id>
+      <title>French Press</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4875438882913</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4875438882913</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4875438882913</id>
+      <title>Drip</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4875438882913</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4875438882913</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4875438882913</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/4800767164513</id>
+    <published>2020-10-25T10:18:55-04:00</published>
+    <updated>2020-10-25T10:18:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/half-caf-fair-trade-organic-decaf-454-g"/>
+    <title>Half-Caf Fair Trade Organic Swiss Water Decaf 454 g</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee Roaster</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/Half_Caf_FTC.jpg?v=1628688903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee Roaster<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Create your own Swiss Water Process Half-Caf blend hot from the coffee roaster!  Indicate in the Notes Section of your order, which of our fantastic coffees you'd like to blend with our Swiss Water Process Decaf to make a Half-Caf Coffee.  The default is Half Fair Trade Organic French Roast and Half SWP Decaf.<br>
+Come visit us at our Roastery on Progress Avenue and see our coffee roaster and breath in the fragrance of fresh coffee that surrounds you.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fair trade</s:tag>
+    <s:tag>Half-Caf</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>swiss water</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/4800767164513</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4800767164513</id>
+      <title>French Press</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4800767164513</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4800767164513</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4800767164513</id>
+      <title>Drip</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4800767164513</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4800767164513</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4800767164513</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/1818738851909</id>
+    <published>2020-10-08T11:08:29-04:00</published>
+    <updated>2020-10-08T11:08:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/nicaragua-dark-fair-trade-organic-454-g"/>
+    <title>Nicaragua Dark Fair Trade Organic San Juan Rio Coco (Dark) 454 g</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/Nicaragua_Dark_FTC.jpg?v=1628689112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This coffee has been a favourite of our Roastery Customers and our coffee roaster for years.  If you order "Nic Dark" then you already know it tastes of buttery sweet chocolate and roasted hazelnut.  Pleasant and persistent mouthfeel.</p>
+<p>Grown by the Union of Agricultural Cooperatives in the San Juan del Rio Coco Region of Nicaragua.<br>
+Come visit us at our Roastery on Progress Avenue and see our coffee roaster and breath in the fragrance of fresh coffee that surrounds you.</p>
+<p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dark Roast</s:tag>
+    <s:tag>fair trade</s:tag>
+    <s:tag>organic</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/1818738851909</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1818738851909</id>
+      <title>French Press</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1818738851909</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1818738851909</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1818738851909</id>
+      <title>Drip</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1818738851909</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1818738851909</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1818738851909</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/9727637775</id>
+    <published>2020-10-07T13:24:08-04:00</published>
+    <updated>2020-10-07T13:24:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/nicaragua-fair-trade-organic-450-g"/>
+    <title>Nicaragua Fair Trade Organic San Juan Rio Coco 454 g</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/Nicaragua_FTC.jpg?v=1628689158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>This Nicaragua Fair Trade Organic San Juan Rio Coco coffee reminds me of vanilla extract and toasted almonds in a pan.  Really well balanced, with mild acidity and an excellent persistence. This coffee is Organic and </span>Fair trade.  The roast date is stamped on the back of each 100% compostable coffee bags when it leaves the coffee roaster.  <br>
+<br>
+Curl up on the couch or take a traveller with you, North Roast Coffee and Multatuli Coffee Merchants is your local Kingston Wholesale Fair Trade Organic Coffee Roaster founded in 1997.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fair trade</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>organic</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727637775</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727637775</id>
+      <title>French Press</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727637775</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727637775</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727637775</id>
+      <title>Drip</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727637775</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727637775</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727637775</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/1824427376709</id>
+    <published>2020-08-24T14:52:16-04:00</published>
+    <updated>2020-08-24T14:52:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/guatemala-antigua-454-g"/>
+    <title>Guatemala Antigua Pastoral 454 g</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/Antigua_Bag.jpg?v=1628787125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Grown in one of the truly classic coffee growing regions, Guatemala Antigua is everything a coffee lover would expect in a cup.  Always hot from the coffee roaster this Medium Dark roast, excellent body with a pleasant aroma of caramelized sugar and light spice.<br>
+Come visit us at our Roastery on Progress Avenue and see our coffee roaster and breath in the fragrance of fresh coffee that surrounds you.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Medium Dark</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/1824427376709</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1824427376709</id>
+      <title>French Press</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1824427376709</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1824427376709</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1824427376709</id>
+      <title>Drip</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1824427376709</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1824427376709</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1824427376709</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/9859660175</id>
+    <published>2020-07-22T19:49:19-04:00</published>
+    <updated>2020-07-22T19:49:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/mexico-fair-trade-organic-450-g"/>
+    <title>Mexico Fair Trade Organic San Fernando SHB EP 454 g</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/Mexico_FTC.jpg?v=1628689003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This is a full bodied coffee with a smokey aroma from the Chiapas Region of Mexico. It has a caramelized buttery mouthfeel which lingers long after the last sip.  Extremely smooth, we always stamp the roast date on the back of our 100% compostable coffee bags when it leaves the coffee roaster.</span></p>
+<p><span>Enjoy a nice up of coffee morning, noon or night. North Roast Coffee is your local Kingston Wholesale Fair Trade Organic Coffee Roaster founded in 1997.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dark Roast</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/9859660175</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9859660175</id>
+      <title>French Press</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9859660175</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9859660175</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9859660175</id>
+      <title>Drip</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9859660175</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9859660175</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9859660175</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/4486582567009</id>
+    <published>2020-01-28T13:23:02-05:00</published>
+    <updated>2020-01-28T13:23:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/mocha-java-fair-trade-organic-454-g"/>
+    <title>Mocha Java Fair Trade Organic 454 g</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/Mocha_Java_FTC.jpg?v=1628689040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A world classic recipe dating back to the 1800's features an artfully roasted Fair Trade Organic Ethiopian paired with an earthy, full bodied Fair Trade Organic Sumatra.  Like all of our coffees, we stamp the roasting date on the back of our 100% compostable coffee bag as soon as it leaves our coffee roaster.<br>
+Come visit us at our Roastery on Progress Avenue and see our coffee roaster and breath in the fragrance of fresh coffee that surrounds you.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dark Roast</s:tag>
+    <s:tag>fair trade</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>organic</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/4486582567009</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4486582567009</id>
+      <title>French Press</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4486582567009</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4486582567009</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4486582567009</id>
+      <title>Drip</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4486582567009</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4486582567009</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/4486582567009</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/1913603653729</id>
+    <published>2018-12-13T12:59:29-05:00</published>
+    <updated>2018-12-13T12:59:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/curated-coffee-subscription"/>
+    <title>Monthly Coffee Subscription ( 12 month )</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/curated.jpg?v=1544724125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            191.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The perfect gift for the fresh coffee lover in your life.  We'll carefully select a different coffee each month and deliver it straight to your door, hot from the roaster within the City of Kingston.</p>
+<p>Fresh coffee is one of life's little luxuries, affordable AND decadent.  </p>
+<p>Use the code:  <strong>MONTHLY</strong>  at checkout and a 10% discount will be applied to your Subscription.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.northroast.com/products/1913603653729</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">191.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1913603653729</id>
+      <title>French Press</title>
+      <s:price currency="CAD">191.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1913603653729</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">191.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1913603653729</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">191.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1913603653729</id>
+      <title>Drip</title>
+      <s:price currency="CAD">191.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1913603653729</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">191.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1913603653729</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">191.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1913603653729</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">191.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/1825058193477</id>
+    <published>2018-11-01T13:24:29-04:00</published>
+    <updated>2018-11-01T13:24:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/peru-dark-fair-trade-organic-454-g"/>
+    <title>Peru Dark Fair Trade Organic Apa Bosque Y Agua 454 g</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/Peru_Dark_FTC.jpg?v=1628689292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is our Peru Chanchamayo roasted dark to impart a smooth caramelized butter flavour yielding to a spicey tobacco character as it cools.  This is half of our super popular French Roast and is stamped with the roast date on the back of our 100% compostable coffee bags when it leaves the coffee roaster.</p>
+<meta charset="utf-8"><meta charset="utf-8">
+<p><span></span>Grown Omia District <span>in the Province of Rodríguez de Mendoza, Amazonas</span></p>
+<p><strong><span color="#2a2a2a" size="6" style="color: #2a2a2a; font-size: xx-large;"></span></strong>Come visit us at our Roastery on Progress Avenue and see our coffee roaster and breath in the fragrance of fresh coffee that surrounds you.<strong><span color="#2a2a2a" size="6" style="color: #2a2a2a; font-size: xx-large;"> </span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dark roast</s:tag>
+    <s:tag>fair trade</s:tag>
+    <s:tag>organic</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/1825058193477</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1825058193477</id>
+      <title>French Press</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1825058193477</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1825058193477</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1825058193477</id>
+      <title>Drip</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1825058193477</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1825058193477</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1825058193477</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/1300886356037</id>
+    <published>2018-09-17T12:57:56-04:00</published>
+    <updated>2018-09-17T12:57:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/costa-rica-fair-trade-organic-454-g"/>
+    <title>Costa Rica La Pastora Tarrazu 454 g</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/Costa_Rica_Bag.jpg?v=1628787073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p>
+Always hot from the coffee roaster, Coope Tarrazu is the largest in Los Santos Tarrazu, a region known for producing the finest coffees in Costa Rica.  The cooperative has approximately 3200 producers and supports them with loans, technical assistance and input price support.
+<p><span mce-data-marked="1">Apricot and Citrus acidity with a well rounded body and excellent balance.  Very pleasant aftertaste.<br>
+Come visit us at our Roastery on Progress Avenue and see our coffee roaster and breath in the fragrance of fresh coffee that surrounds you.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Medium Dark</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/1300886356037</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1300886356037</id>
+      <title>French Press</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1300886356037</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1300886356037</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1300886356037</id>
+      <title>Drip</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1300886356037</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1300886356037</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/1300886356037</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/10485609999</id>
+    <published>2017-03-12T20:44:00-04:00</published>
+    <updated>2017-03-12T20:44:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/crooked-chute"/>
+    <title>Crooked Chute Fair Trade Organic 454 g</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/Crooked_Chute_FTC.jpg?v=1628688709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A deep, rich fragrance rolls from the coffee roaster when this coffee is ready.  Named after one of the most difficult rapids along the Petawawa River, one we've paddled many times.  This is a powerful dark roast that packs a heavy punch.  This is a fantastic coffee to take into the backcountry, where you want your coffee flavours to be strong enough to stand up to campfire smoke and pine tar aromas.</p>
+<p></p>
+<p>Come visit us at our Roastery on Progress Avenue and see our coffee roaster and breath in the fragrance of fresh coffee that surrounds you.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dark roast</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/10485609999</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/10485609999</id>
+      <title>French Press</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/10485609999</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/10485609999</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/10485609999</id>
+      <title>Drip</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/10485609999</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/10485609999</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/10485609999</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/9727480399</id>
+    <published>2016-12-22T20:28:00-05:00</published>
+    <updated>2016-12-22T20:28:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/swp-decaf-450-g"/>
+    <title>Swiss Water Process Decaf Fair Trade Organic Peru 454 g</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/SWP_Decaf_FTC.jpg?v=1628689377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Our Swiss Water Process Organic Decaf from Chanchamayo Peru offers a full bodied cup that will not disappoint.  Very well balanced, sweet and clean, mild acidity with dry cocoa aroma.</span></p>
+<p> Great flavour characteristics are in the cup.  We stamp the roast date on the back of each of our 100% compostable coffee bags when it leaves the coffee roaster.</p>
+<p><span><br>
+<span>North Roast Coffee, in Kingston Ontario is your Wholesale Fair Trade Organic Coffee Roaster founded in 1997. Whole Beans makes a great gift for a coffee enthusiast!</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dark Roast</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727480399</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727480399</id>
+      <title>French Press</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727480399</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727480399</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727480399</id>
+      <title>Drip</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727480399</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727480399</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727480399</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/9727454799</id>
+    <published>2016-12-22T20:22:00-05:00</published>
+    <updated>2016-12-22T20:22:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/sumatra-450-g"/>
+    <title>Sumatra Fair Trade Organic PT Harapan Bersama 454 g</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/Sumatra_FTC.jpg?v=1628689334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><img alt="" src="//cdn.shopify.com/s/files/1/0286/6846/files/MG_8967_large.jpg?v=1522706586">Owing to the Natural Process of drying the beans inside the fruit, this coffee is earthy and sometimes pungent (early in the crop year).  Dry chocolate, light spice and peat provides maximum body for those seeking a BIG taste and persistent mouthfeel.  The roast date is stamped on the back of every 100% compostable coffee bags as soon at the coffee leaves the coffee roaster.</span></p>
+<p><span>Absolutely everything you'd expect in a classic Sumatran Coffee.<br>
+Come visit us at our Roastery on Progress Avenue and see our coffee roaster and breath in the fragrance of fresh coffee that surrounds you.</span></p>
+<p><span>Region:  Gayo Region, Aceh Province</span></p>
+<p><span>Process:  Semi Washed</span></p>
+<p><span>Certification:  Fair Trade, Organic</span></p>
+<p><span>Altitiude:  1200-1600 metres</span></p>
+<p><span>Varietals:  Bourbon, Timtim, Ateng Super, Catimor </span></p>
+<p></p>
+<p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dark Roast</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727454799</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727454799</id>
+      <title>French Press</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727454799</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727454799</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727454799</id>
+      <title>Drip</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727454799</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727454799</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727454799</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/9727482895</id>
+    <published>2016-12-22T20:21:00-05:00</published>
+    <updated>2016-12-22T20:21:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/peru-450-g"/>
+    <title>Peru Fair Trade Organic Apa Bosque Y Agua 454 g</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/Peru_FTC.jpg?v=1628689253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p></p>
+<meta charset="utf-8">
+<p><span>Wonderful Dry Cocoa profile with excellent body and full mouthfeel.  This coffee surprises and delights each time and is a base for many of our most popular blends.  We always stamp the roast date on the back of each 100% compostable coffee bags when it leaves the coffee roaster.</span></p>
+<p>Grown Omia District <span>in the Province of Rodríguez de Mendoza, Amazonas</span></p>
+<p> We've built our business around our love of great, fresh roasted coffee.<br>
+Come visit us at our Roastery on Progress Avenue and see our coffee roaster and breath in the fragrance of fresh coffee that surrounds you.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Medium</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727482895</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727482895</id>
+      <title>French Press</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727482895</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727482895</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727482895</id>
+      <title>Drip</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727482895</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727482895</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727482895</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/9859696783</id>
+    <published>2016-12-22T20:20:00-05:00</published>
+    <updated>2016-12-22T20:20:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/thors-hammer-fair-trade-organic-450-g"/>
+    <title>Thor&apos;s Hammer Fair Trade 454 g</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/Thors_Hammer_FTC.jpg?v=1628689411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our Biggest, Boldest Coffee for those who want a coffee that makes you stand up and take notice.  Full Body, Huge Mouthfeel, Dark Roast to highlight its full flavour.  The roast date is stamped on the back of each coffee bag when it leaves the coffee roaster.</span></p>
+<p></p>
+<p></p>
+<p><span>North Roast Coffee, in Kingston Ontario is your Wholesale Fair Trade Organic Coffee Roaster founded in 1997. Whole Beans makes a great gift for a coffee enthusiast!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dark Roast</s:tag>
+    <s:tag>fair trade</s:tag>
+    <s:tag>organic</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/9859696783</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9859696783</id>
+      <title>French Press</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9859696783</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9859696783</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9859696783</id>
+      <title>Drip</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9859696783</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9859696783</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9859696783</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/9727461775</id>
+    <published>2016-12-22T20:20:00-05:00</published>
+    <updated>2016-12-22T20:20:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/mayan-fusion-450-g"/>
+    <title>Mayan Fusion Fair Trade Organic 454 g</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/Mayan_Fusion_FTC.jpg?v=1628688956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>A combination of Guatemala and Mexican beans, this is a full bodied coffee with a smokey aroma and balanced acidity. It has a clarified buttery mouthfeel which lingers long after the last sip.  We always stamp every bag with the roast date when it leaves the coffee roaster.</span></p>
+<p></p>
+<p><span>Enjoy a nice up of coffee morning, noon or night.<br>
+North Roast Coffee and Multatuli Coffee Merchants is your local Kingston Wholesale Fair Trade Organic Coffee Roaster founded in 1997.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Medium Dark</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727461775</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727461775</id>
+      <title>French Press</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727461775</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727461775</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727461775</id>
+      <title>Drip</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727461775</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727461775</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727461775</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/9727457039</id>
+    <published>2016-12-22T20:20:00-05:00</published>
+    <updated>2016-12-22T20:20:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/guatemala-450-g"/>
+    <title>Guatemala Fair Trade Organic AAPICAFE Cooperative 454 g</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/Guatemala_FTC.jpg?v=1628688868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div class="rte product-single__description" itemprop="description">
+<p>The location of the coop is in the heart of the growing areas in Huehuetenango. From the City of Huehue it takes about 2 hours to get to the down and requires a 4x4 truck. Using the word rough to describe the road is an understatement.</p>
+<p>The average farm size in the region is about 1 hectare.</p>
+<p>As the coop is on a slightly north facing side of the range the cool nights mean that the coffee is fermented for longer periods of time ranging up to 48 hours.</p>
+</div>
+<p><span>  Huehuetenango enjoys high altitude, rich volcanic soils and abundant rainfall creating the perfect environment for world class coffee in the hands of a world class coffee roaster.  This coffee has very balanced acidity and mild cocoa aroma.  Sweet pears, honey with fruity acidity.  Juicy aftertaste.</span></p>
+<p> Produced 1500-1800 metres above sea level and harvested from October to March.<br>
+Come visit us at our Roastery on Progress Avenue and see our coffee roaster and breath in the fragrance of fresh coffee that surrounds you.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fair trade</s:tag>
+    <s:tag>Medium Dark</s:tag>
+    <s:tag>organic</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727457039</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727457039</id>
+      <title>French Press</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727457039</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727457039</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727457039</id>
+      <title>Drip</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727457039</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727457039</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727457039</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/9727484687</id>
+    <published>2016-12-22T20:19:00-05:00</published>
+    <updated>2016-12-22T20:19:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/ethiopia-450-g"/>
+    <title>Ethiopia Fair Trade Organic 454 g</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/Ethiopia_FTC.jpg?v=1628688783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>A true test of a coffee roaster 's skill, this</span><span> Yirgacheffe Oromia</span><span> exhibits all of the best properties of African Coffees.  The Oromia Cooperative is in a highland region dominated by fertile volcanic soil.  Excellent body, wonderful pit fruit fragrance and lingering clean mouthfeel.</span></p>
+<p><span>Process:  Washed and Sun dried</span></p>
+<p><span>Certification:  Fairtrade, Organic</span></p>
+<p><span>Altitude:  1550-2200 metres</span></p>
+<p><span>Species:  Arabica</span></p>
+<p><span>Harvest:  October to January</span></p>
+<p>Come visit us at our Roastery on Progress Avenue and see our coffee roaster and breath in the fragrance of fresh coffee that surrounds you.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Medium</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727484687</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727484687</id>
+      <title>French Press</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727484687</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727484687</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727484687</id>
+      <title>Drip</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727484687</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727484687</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727484687</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/9727450959</id>
+    <published>2016-12-22T20:19:00-05:00</published>
+    <updated>2016-12-22T20:19:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/french-roast-450-g"/>
+    <title>French Roast Fair Trade Organic 454 g</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/French_Roast_FTC.jpg?v=1628688819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Alwys fresh from the coffee roaster, our most popular dark roast is roasted just to second crack (the second time the bean pops and expands in the roaster) indicating a dark roast.  We stop the roast very quickly so the smooth, dark and sweet character makes it into the cup.</span></p>
+<p> Knowing how to roast a coffee dark to enhance flavour is a rare skill among coffee roasters.  Many roasters with limited experience roast all coffee light with no regard to where the coffee needs to be roasted.  We know which coffees need to be roasted light, and which dark.  Enjoy!<br>
+Come visit us at our Roastery on Progress Avenue and see our coffee roaster and breath in the fragrance of fresh coffee that surrounds you.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dark Roast</s:tag>
+    <s:tag>fair trade</s:tag>
+    <s:tag>organic</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727450959</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727450959</id>
+      <title>French Press</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727450959</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727450959</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727450959</id>
+      <title>Drip</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727450959</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727450959</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727450959</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.northroast.com/products/9727497871</id>
+    <published>2016-12-22T20:18:00-05:00</published>
+    <updated>2016-12-22T20:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/colombia-450-g"/>
+    <title>Colombia Fair Trade Coop ACEC Organic 454 g</title>
+    <s:type>450g Bag</s:type>
+    <s:vendor>North Roast Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/Colombia_FTC.jpg?v=1628688615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>North Roast Coffee<br>
+        <strong>Type: </strong>450g Bag<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Always hot from the coffee roaster, Fair Trade Colombia Coop </span><span>ACEC from Popayan</span><span> (Medium Dark)  is a little toasty with dried red fruit (sounds like breakfast) and has some honeyed sweetness when roasted on the darker side of Medium.  Rich mouthfeel and piquant finish.<br>
+Come visit us at our Roastery on Progress Avenue and see our coffee roaster and breath in the fragrance of fresh coffee that surrounds you.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Medium</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727497871</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727497871</id>
+      <title>French Press</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727497871</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727497871</id>
+      <title>Chemex/Melitta</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727497871</id>
+      <title>Drip</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727497871</id>
+      <title>Home Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727497871</id>
+      <title>Commercial Espresso</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/9727497871</id>
+      <title>Turkish</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

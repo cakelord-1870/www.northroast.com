@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.northroast.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.northroast.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.northroast.com/collections/gift-cards.atom"/>
+  <title>North Roast Coffee Roaster</title>
+  <updated>2013-11-27T10:59:00-05:00</updated>
+  <author>
+    <name>North Roast Coffee Roaster</name>
+  </author>
+  <entry>
+    <id>https://www.northroast.com/products/184321533</id>
+    <published>2013-11-27T10:59:00-05:00</published>
+    <updated>2013-11-27T10:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.northroast.com/products/gift-card"/>
+    <title>Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Coffeeco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0286/6846/products/Gift_Card.jpg?v=1517964246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coffeeco<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            10.00 - 50.00
+            <a href="https://www.northroast.com/products/gift-card">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them? Give them the gift of choice with a North Roast/Multatuli Coffee Merchants Gift Card.</p>
+<p>Digital Gift Cards purchased through our web store are delivered by email.  Physical Gift Cards are purchased in store at our Multatuli Coffee Merchants Roastery. Our gift cards have no additional processing fees.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$10</s:tag>
+    <s:tag>$100</s:tag>
+    <s:tag>$25</s:tag>
+    <s:tag>$50</s:tag>
+    <s:tag>Gift Card</s:tag>
+    <s:variant>
+      <id>https://www.northroast.com/products/184321533</id>
+      <title>$10.00</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/184321533</id>
+      <title>$25.00</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.northroast.com/products/184321533</id>
+      <title>$50.00</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
